@@ -24,6 +24,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "euler-12"
+version = "0.1.0"
+
+[[package]]
 name = "euler-2"
 version = "0.1.0"
 dependencies = [
