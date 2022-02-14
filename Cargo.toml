@@ -8,4 +8,5 @@ members = [
     "euler-6",
     "euler-8",
     "euler-9",
+    "euler-153",
 ]
