@@ -43,7 +43,7 @@ fn main() {
     println!("Greatest is {}", products.iter().max().unwrap());
 }
 
-// Take 4 digits from S at index i.
+// Take `ADJACENT` many digits from S at index i.
 fn take_thirteen(i: usize) -> Vec<usize> {
     let s = S.to_string();
     let four: Vec<_> = s
