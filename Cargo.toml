@@ -4,4 +4,5 @@ members = [
     "common",
     "euler-1",
     "euler-2",
+    "euler-4",
 ]
