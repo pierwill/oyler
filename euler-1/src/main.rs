@@ -1,3 +1,5 @@
+// https://projecteuler.net/problem=1
+
 const MAX: usize = 1000;
 
 fn main() {

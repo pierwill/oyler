@@ -1,3 +1,4 @@
+// https://projecteuler.net/problem=9
 const MAX: usize = 1000;
 
 #[derive(Debug)]

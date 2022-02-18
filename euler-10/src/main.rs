@@ -1,3 +1,5 @@
+// https://projecteuler.net/problem=10
+
 //! I used a crate; so sue me.
 
 use primal::Primes;

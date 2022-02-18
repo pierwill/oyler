@@ -1,3 +1,4 @@
+// https://projecteuler.net/problem=6
 fn main() {
     println!("{}", diff(100));
 }
